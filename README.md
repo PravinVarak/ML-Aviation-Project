@@ -8,3 +8,6 @@ Normalization, Train-Test-Split)
 4. Performed Feature Selection & Elimination method.
 5. Used various ML Algorithms like LR, DTC, RFC, SVM & evaluated their
 performance to find the best predictive model for the Aviation Data.
+6. Random Forest Classifier performs best with the given data.
+7. Explained in detailed about the various evaluations & various model performances
+with respect to data in ppt.
